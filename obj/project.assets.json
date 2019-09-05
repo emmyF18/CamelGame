@@ -694,11 +694,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\emmy.farrell\\Documents\\Camel Game\\Camel Game.csproj",
+      "projectUniqueName": "C:\\Users\\emmy.farrell\\Desktop\\CamelGame\\Camel Game.csproj",
       "projectName": "Camel Game",
-      "projectPath": "C:\\Users\\emmy.farrell\\Documents\\Camel Game\\Camel Game.csproj",
+      "projectPath": "C:\\Users\\emmy.farrell\\Desktop\\CamelGame\\Camel Game.csproj",
       "packagesPath": "C:\\Users\\emmy.farrell\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\emmy.farrell\\Documents\\Camel Game\\obj\\",
+      "outputPath": "C:\\Users\\emmy.farrell\\Desktop\\CamelGame\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
