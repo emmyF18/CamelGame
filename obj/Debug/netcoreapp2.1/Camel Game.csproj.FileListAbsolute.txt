@@ -1,0 +1,11 @@
+C:\Users\emmy.farrell\Documents\Camel Game\bin\Debug\netcoreapp2.1\Camel Game.deps.json
+C:\Users\emmy.farrell\Documents\Camel Game\bin\Debug\netcoreapp2.1\Camel Game.runtimeconfig.json
+C:\Users\emmy.farrell\Documents\Camel Game\bin\Debug\netcoreapp2.1\Camel Game.runtimeconfig.dev.json
+C:\Users\emmy.farrell\Documents\Camel Game\bin\Debug\netcoreapp2.1\Camel Game.dll
+C:\Users\emmy.farrell\Documents\Camel Game\bin\Debug\netcoreapp2.1\Camel Game.pdb
+C:\Users\emmy.farrell\Documents\Camel Game\obj\Debug\netcoreapp2.1\Camel Game.csprojAssemblyReference.cache
+C:\Users\emmy.farrell\Documents\Camel Game\obj\Debug\netcoreapp2.1\Camel Game.csproj.CoreCompileInputs.cache
+C:\Users\emmy.farrell\Documents\Camel Game\obj\Debug\netcoreapp2.1\Camel Game.AssemblyInfoInputs.cache
+C:\Users\emmy.farrell\Documents\Camel Game\obj\Debug\netcoreapp2.1\Camel Game.AssemblyInfo.cs
+C:\Users\emmy.farrell\Documents\Camel Game\obj\Debug\netcoreapp2.1\Camel Game.dll
+C:\Users\emmy.farrell\Documents\Camel Game\obj\Debug\netcoreapp2.1\Camel Game.pdb
